@@ -11,7 +11,7 @@ En este archivo se trabajara con el archivo README.md y se agregara una descripc
 ### ¿Que es git?
 Git es un sistema de control de versiones distribuido de codigo abierto y gratuito diseñado para manejar todo, desde proyectos pequeños a muy grandes, con velocidad y eficiencia.
 
-## Feature/2_add-git-command
+## Feature/3_add-git-command
 
 ### Comandos principales de git 
 - git init: Inicializa un repositorio de git en un directorio.
