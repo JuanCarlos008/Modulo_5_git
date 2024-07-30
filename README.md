@@ -14,6 +14,7 @@ Git es un sistema de control de versiones distribuido de codigo abierto y gratui
 ## Feature/3_add-git-command
 
 ### Comandos principales de git 
+
 - git init: Inicializa un repositorio de git en un directorio.
 - git add: Agrega un archivo al area de preparacion.
 - git commit: Guarda los cambios en el repositorio.
@@ -25,4 +26,9 @@ Git es un sistema de control de versiones distribuido de codigo abierto y gratui
 - git push: Actualiza referencias remotas junto con los objetos asociados.
 - git pull: Actualiza el repositorio local con los cambios de un repositorio remoto.
 - git clone: Clona un repositorio en un nuevo directorio.
-- 
+
+## Feature/4_add-git-history
+
+### Historia de git
+
+Git fue creado por Linus Torvalds en 2005 para el desarrollo del kernel de Linux, con el objetivo de crear un sistema de control de versiones que fuera rápido, eficiente y escalable. Desde entonces, se ha convertido en uno de los sistemas de control de versiones mas populares y ampliamente utilizados en el mundo.
